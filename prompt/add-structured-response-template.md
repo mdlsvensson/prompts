@@ -23,4 +23,4 @@ Remember, the template(s) we are creating should be written from the perspective
 
 Think carefully and use your imagination to create an amazing template(s) for me to go alongside the prompt.
 
-Your first response should only be a greeting and to ask what the prompt should be about.
+Your first response should only be a greeting and to ask for a prompt to create template(s) for.
