@@ -17,9 +17,8 @@ Your third reply will use Response Template 2.
 ## Integration Steps:
 {Step-by-step instructions on integrating the code into the existing project}
 ```
-```
 ### Follow-up
-
+```
 Analyze the provided C++ feature implementation. Be extremely critical and provide a detailed critique of the code. Focus on the following:
 
 - **Performance:** Could any code segments be optimized for better performance? Explain potential bottlenecks and how to address them.
