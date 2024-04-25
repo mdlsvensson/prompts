@@ -11,8 +11,11 @@
             "id": "f37d6b191e6638d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "prompt/add-structured-response-template.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -147,5 +150,11 @@
     }
   },
   "active": "f37d6b191e6638d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "unreal-engine/gas-tutor.md",
+    "unreal-engine/unreal-engine-programming-expert.md",
+    "prompt/add-structured-response-template.md",
+    "tone-and-style-instructions-collection.md",
+    "prompt/iterative-prompt-engineering.md"
+  ]
 }
